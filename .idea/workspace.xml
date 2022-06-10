@@ -1,40 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e52f2ec-1117-4441-8392-143c259a30b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SAVE.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dependency-reduced-pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ga.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pathFinder.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GraphSolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MainPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/GeneticAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/graph/Edge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/graph/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/graph/Vertex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SAVE.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/GraphSolver$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/GraphSolver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/MainPanel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/algorithm/GeneticAlgorithm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/graph/Edge.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/graph/Graph.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/graph/Vertex.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/utils/Util.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/original-pathFinder-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/pathFinder-1.0-SNAPSHOT.jar" afterDir="false" />
-    </list>
+    <list default="true" id="3e52f2ec-1117-4441-8392-143c259a30b4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +15,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -90,6 +62,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GraphSolver" />
+        <item itemvalue="Application.GraphSolver" />
+        <item itemvalue="Application.GraphSolver" />
+        <item itemvalue="Application.GraphSolver" />
         <item itemvalue="Application.GraphSolver" />
       </list>
     </recent_temporary>
@@ -140,10 +116,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="454" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1654069548603" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1654876578865">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1654877614559">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1654876578865" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1654877614559" />
+    <state x="793" y="435" width="358" height="169" key="Github.CreateGistDialog" timestamp="1654877702242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="793" y="435" width="358" height="169" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1654877702242" />
+    <state x="835" y="413" width="262" height="214" key="Github.ShareDialog" timestamp="1654877603464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="835" y="413" width="262" height="214" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1654877603464" />
     <state width="1875" height="369" key="GridCell.Tab.0.bottom" timestamp="1654533436083">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

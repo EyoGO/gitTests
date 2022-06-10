@@ -50,6 +50,9 @@ def getBestPath(paths):
 
 population = [random.sample(range(LENGTH_D), LENGTH_D) for x in range(POPULATION_SIZE)]
 
+
+
+
 for iteration in range(MAX_GENERATIONS):
     newGeneration = []
     random.shuffle(population)

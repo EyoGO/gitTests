@@ -14,6 +14,7 @@ import java.util.List;
 public class GeneticAlgorithm {
 
 
+
     private int startVertex = 0;
     private int targetVertex = 0;
     private List<List<Double>> matrix;

@@ -4,6 +4,7 @@ import graph.Vertex;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;
+import javax.swing.plaf.ComponentUI;
 import java.awt.*;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
@@ -206,5 +207,10 @@ public class MainPanel extends JPanel implements MouseListener, MouseMotionListe
 
     public static void setVertexID(int vertexID) {
         MainPanel.vertexID = vertexID;
+    }
+
+    @Override
+    protected void setUI(ComponentUI newUI) {
+        super.setUI(newUI);
     }
 }

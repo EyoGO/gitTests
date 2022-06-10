@@ -211,6 +211,12 @@ public class GraphSolver extends JFrame implements ActionListener {
                 }
             }
         }
+
+
+
+
+
+
         repaint();
     }
 

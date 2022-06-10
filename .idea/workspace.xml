@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e52f2ec-1117-4441-8392-143c259a30b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GraphSolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GraphSolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MainPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MainPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/GeneticAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/GeneticAlgorithm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="first" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -107,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654876659348</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init">
+      <created>1654877303937</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654877303937</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,10 +151,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="906" y="99" width="797" height="842" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1654070087402" />
-    <state x="613" y="112" key="CommitChangelistDialog2" timestamp="1654876654986">
+    <state x="613" y="112" key="CommitChangelistDialog2" timestamp="1654877302261">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="613" y="112" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1654876654986" />
+    <state x="613" y="112" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1654877302261" />
     <state width="454" height="466" key="DebuggerActiveHint" timestamp="1654069548603">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -190,10 +199,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="95" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1653216865724" />
-    <state x="551" y="252" key="Vcs.Push.Dialog.v2" timestamp="1654877124051">
+    <state x="551" y="252" key="Vcs.Push.Dialog.v2" timestamp="1654877313993">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="551" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1654877124051" />
+    <state x="551" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1654877313993" />
     <state width="1833" height="409" key="XDebugger.FullValuePopup" timestamp="1653814344885">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

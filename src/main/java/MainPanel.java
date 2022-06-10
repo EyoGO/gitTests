@@ -147,6 +147,7 @@ public class MainPanel extends JPanel implements MouseListener, MouseMotionListe
     }
 
     private void dragElement(int mx, int my) {
+
         int toMoveX = mx - lastMouseX;
         int toMoveY = my - lastMouseY;
 

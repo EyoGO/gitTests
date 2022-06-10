@@ -201,6 +201,7 @@ public class GraphSolver extends JFrame implements ActionListener {
                     geneticAlgorithm.setTargetVertex(endVertexID);
                     geneticAlgorithm.setMatrix(mainPanel.getGraph().getMatrix());
                     double distance = geneticAlgorithm.start();
+
                     repaint();
                     if (distance > 0) {
                         JOptionPane.showMessageDialog(this, "Distance = " + distance);

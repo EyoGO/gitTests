@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e52f2ec-1117-4441-8392-143c259a30b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SAVE.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency-reduced-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ga.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pathFinder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GraphSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MainPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/GeneticAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/graph/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/graph/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/graph/Vertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/SAVE.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/GraphSolver$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/GraphSolver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MainPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/algorithm/GeneticAlgorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/graph/Edge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/graph/Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/graph/Vertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/utils/Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/original-pathFinder-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/pathFinder-1.0-SNAPSHOT.jar" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="29TvVR7VHWxOyim76DOzZlSPUyl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17872807" />
+    <property name="project.structure.side.proportion" value="0.2908046" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Java\javaWorkspace\pathFinder\src\main\resources\datasets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java\javaWorkspace\pathFinder" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="GraphSolver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GraphSolver" />
+      <module name="pathFinder" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GraphSolver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e52f2ec-1117-4441-8392-143c259a30b4" name="Default Changelist" comment="" />
+      <created>1653149913006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653149913006</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="717" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1653778012314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="717" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1653778012314" />
+    <state x="764" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1653841822963">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="764" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1653841822963" />
+    <state x="617" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1654086004473">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="617" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1654086004473" />
+    <state x="906" y="99" width="797" height="842" key="#xdebugger.evaluate" timestamp="1654070087402">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="906" y="99" width="797" height="842" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1654070087402" />
+    <state width="454" height="466" key="DebuggerActiveHint" timestamp="1654069548603">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="454" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1654069548603" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1654876578865">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1654876578865" />
+    <state width="1875" height="369" key="GridCell.Tab.0.bottom" timestamp="1654533436083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="369" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1654533436083" />
+    <state width="1875" height="369" key="GridCell.Tab.0.center" timestamp="1654533436083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="369" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1654533436083" />
+    <state width="1875" height="369" key="GridCell.Tab.0.left" timestamp="1654533436083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="369" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1654533436083" />
+    <state width="1875" height="369" key="GridCell.Tab.0.right" timestamp="1654533436083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="369" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1654533436083" />
+    <state width="1875" height="367" key="GridCell.Tab.1.bottom" timestamp="1654166539664">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="367" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1654166539664" />
+    <state width="1875" height="367" key="GridCell.Tab.1.center" timestamp="1654166539664">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="367" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1654166539664" />
+    <state width="1875" height="367" key="GridCell.Tab.1.left" timestamp="1654166539664">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="367" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1654166539664" />
+    <state width="1875" height="367" key="GridCell.Tab.1.right" timestamp="1654166539664">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="367" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1654166539664" />
+    <state x="440" y="95" key="SettingsEditor" timestamp="1653216865724">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="95" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1653216865724" />
+    <state width="1833" height="409" key="XDebugger.FullValuePopup" timestamp="1653814344885">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1833" height="409" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1653814344885" />
+    <state x="655" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1654876352641">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1654876352641" />
+    <state x="294" y="252" width="1527" height="536" key="find.popup" timestamp="1654150253549">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="294" y="252" width="1527" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1654150253549" />
+    <state width="572" height="511" key="javadoc.popup.new" timestamp="1653825758337">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="572" height="511" key="javadoc.popup.new/0.0.1920.1040@0.0.1920.1040" timestamp="1653825758337" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1653775456566">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1653775456566" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1653223499768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1653223499768" />
+  </component>
+</project>

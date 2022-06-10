@@ -2,38 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e52f2ec-1117-4441-8392-143c259a30b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SAVE.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dependency-reduced-pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ga.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pathFinder.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GraphSolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MainPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/GeneticAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/graph/Edge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/graph/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/graph/Vertex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/SAVE.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/GraphSolver$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/GraphSolver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/MainPanel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/algorithm/GeneticAlgorithm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/graph/Edge.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/graph/Graph.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/graph/Vertex.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/utils/Util.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/original-pathFinder-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/pathFinder-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +18,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\Java\javaWorkspace\pathFinder\.idea" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -66,6 +48,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17872807" />
@@ -117,7 +100,30 @@
       <option name="presentableId" value="Default" />
       <updated>1653149913006</updated>
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1654876659348</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654876659348</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
     <state x="717" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1653778012314">
@@ -136,6 +142,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="906" y="99" width="797" height="842" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1654070087402" />
+    <state x="613" y="112" key="CommitChangelistDialog2" timestamp="1654876654986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="613" y="112" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1654876654986" />
     <state width="454" height="466" key="DebuggerActiveHint" timestamp="1654069548603">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -180,6 +190,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="95" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1653216865724" />
+    <state x="551" y="252" key="Vcs.Push.Dialog.v2" timestamp="1654877124051">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1654877124051" />
     <state width="1833" height="409" key="XDebugger.FullValuePopup" timestamp="1653814344885">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

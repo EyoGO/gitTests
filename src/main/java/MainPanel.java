@@ -143,6 +143,7 @@ public class MainPanel extends JPanel implements MouseListener, MouseMotionListe
         lastMouseX = mouseEvent.getX();
         lastMouseY = mouseEvent.getY();
         setCursor(mouseEvent);
+
     }
 
     private void dragElement(int mx, int my) {
